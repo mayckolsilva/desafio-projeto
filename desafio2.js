@@ -26,5 +26,5 @@ function ranqueadaNivel(ranqueadaF){
     else{
         nivel= "Imortal";
     }
-    return nivel
+    return nivel;
 }
